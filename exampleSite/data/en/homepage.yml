@@ -9,7 +9,7 @@ banner:
   image: images/tocador.png
   button:
     enable: true
-    label: Browse All Products
+    label: Ver productos
     link: products
 features:
   enable: true
