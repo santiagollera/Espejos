@@ -43,8 +43,8 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
+  image: images/tocador.png
+  title: Diseñado y fabricado por artesanos de Madrid
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
