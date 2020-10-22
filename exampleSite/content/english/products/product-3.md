@@ -1,11 +1,11 @@
 ---
-title: Tocador modelo Alfa
+title: Espejo Alfa
 date: 2019-10-17T11:22:16.000+06:00
 images:
 - "/images/tocador.png"
 description: this is meta description
-price: '30.00'
-discount_price: '25.00'
+price: "167"
+discount_price: "157"
 colors:
 - black
 - white
