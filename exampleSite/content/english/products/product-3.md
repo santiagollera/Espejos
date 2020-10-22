@@ -1,5 +1,5 @@
 ---
-title: Tocador modelo Tata
+title: Tocador modelo Alfa
 date: 2019-10-17T11:22:16.000+06:00
 images:
 - "/images/tocador.png"
