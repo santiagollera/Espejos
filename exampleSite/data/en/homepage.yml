@@ -73,7 +73,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Todos nuestros modelos
 subscription:
   enable: false
   bg_image: images/call-to-action.jpg
