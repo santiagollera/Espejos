@@ -69,7 +69,7 @@ about_product:
       magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
     button:
       enable: false
-      label: Check Features
+      label: Ver productos
       link: "#"
 products:
   enable: true
