@@ -75,14 +75,14 @@ products:
   enable: true
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Msa
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Opiniones de clientes
   testimonial_item:
   - name: Jonathon Andrew
     designation: CEO, Themefisher
