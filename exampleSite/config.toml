@@ -12,7 +12,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = ""
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
