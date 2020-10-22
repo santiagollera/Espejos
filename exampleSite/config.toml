@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Googleate"
+title = "Espejos de Maquillaje"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -54,9 +54,9 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-author = "Themefisher"
-contact_form_action = "#"
-currency = "$"
+author = "Santiago Llera"
+contact_form_action = "https://gracious-euclid-8b39b9.netlify.app/contact/#/"
+currency = "€"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"
@@ -80,7 +80,7 @@ link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
